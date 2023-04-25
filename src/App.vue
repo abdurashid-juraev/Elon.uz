@@ -1,10 +1,20 @@
-<script>
+<script setup>
 import { RouterLink, RouterView } from "vue-router";
+// @ts-ignore
+import Header from "@/components/layout/TheHeader.vue";
+// @ts-ignore
+import Footer from "@/components/layout/TheFooter.vue";
+// @ts-ignore
+import MainInput from "@/components/MainInput.vue";
 </script>
 
 <template>
-  <h1 class="text-3xl font-bold underline">Hello world!</h1>
-  <RouterView />
+  <div class="flex flex-col justify-between h-screen">
+    <Header />
+    <MainInput />
+    <RouterView />
+    <Footer />
+  </div>
 </template>
 
 <style>
