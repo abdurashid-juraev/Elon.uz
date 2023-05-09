@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Детский мир",
+    "img": "detskiy-mir.png",
+    "bgColor": "bg-yellow-300"
+  },
+  {
+    "id": 2,
+    "title": "Недвижимость",
+    "img": "nedvizhimost.png",
+    "bgColor": "bg-blue-500"
+  },
+  {
+    "id": 3,
+    "title": "Транспорт",
+    "img": "transport.png",
+    "bgColor": "bg-teal-300"
+  },
+  {
+    "id": 4,
+    "title": "Работа",
+    "img": "rabota.png",
+    "bgColor": "bg-red-500"
+  },
+  {
+    "id": 5,
+    "title": "Животные",
+    "img": "zhivotny.png",
+    "bgColor": "bg-yellow-100"
+  },
+  {
+    "id": 6,
+    "title": "Дом и сад",
+    "img": "dom-i-sad.png",
+    "bgColor": "bg-blue-300"
+  },
+  {
+    "id": 7,
+    "title": "Электроника",
+    "img": "elektronika.png",
+    "bgColor": "bg-cyan-400"
+  }
+]
