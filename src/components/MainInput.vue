@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto bg-gray-100">
+  <div class="container mx-auto mb-6 bg-gray-100">
     <div class="rounded-lg pl-6">
       <div class="grid w-full grid-cols-7 gap-4">
         <div

@@ -40,5 +40,23 @@
     "title": "Электроника",
     "img": "elektronika.png",
     "bgColor": "bg-cyan-400"
+  },
+  {
+    "id": 8,
+    "title": " Бизнес и услуги",
+    "img": "uslugi.png",
+    "bgColor": "bg-red-200"
+  },
+  {
+    "id": 8,
+    "title": "Мода и стиль",
+    "img": "moda-i-stil.png",
+    "bgColor": "bg-yellow-300"
+  },
+  {
+    "id": 8,
+    "title": "Хобби, отдых и спорт",
+    "img": "hobbi-otdyh.png",
+    "bgColor": "bg-blue-200"
   }
 ]

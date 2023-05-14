@@ -21,9 +21,9 @@ const ctgs = ref(ctg);
     <div>
       <Header />
       <MainInput />
-      <section class="mt-9 bg-gray-100 py-6">
+      <section class="mb-6 pt-6">
         <div class="container mx-auto">
-          <h2 class="mb-6 text-center text-3xl font-semibold">
+          <h2 class="mb-8 text-center text-3xl font-semibold">
             Главные категории
           </h2>
           <div class="grid grid-cols-9">
@@ -35,6 +35,13 @@ const ctgs = ref(ctg);
               :bgColor="ctg.bgColor"
             />
           </div>
+        </div>
+      </section>
+      <section class="mb-6 bg-gray-100 pt-6">
+        <div class="container mx-auto">
+          <h2 class="mb-8 text-center text-3xl font-semibold">
+            Премиум объявления
+          </h2>
         </div>
       </section>
     </div>
@@ -49,7 +56,9 @@ const ctgs = ref(ctg);
   .bg-red-500
   .bg-yellow-100
   .bg-cyan-400
-  .bg-blue-300 {
+  .bg-blue-300
+  .bg-red-200
+  .bg-blue-200 {
   color: inherit;
 }
 </style>
