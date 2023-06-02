@@ -6,10 +6,10 @@
         <div>
           <ul class="flex items-center">
             <li class="group ml-3">
-              <a href="#!" class="flex items-center">
+              <router-link :to="{ name: 'register' }" class="flex items-center">
                 <img class="mr-2" src="@/assets/icons/sms.svg" alt="" />
                 <span class="group-hover:text-blue-500">Сообщения </span>
-              </a>
+              </router-link>
             </li>
             <li class="ml-5 flex items-center">
               <a href="#!" class="mr-2 hover:text-blue-500">O'Z</a
@@ -43,4 +43,7 @@
   </header>
 </template>
 
-<script setup></script>
+<script setup>
+// @ts-ignore
+import { RouterLink } from "vue-router";
+</script>

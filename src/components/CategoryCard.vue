@@ -1,5 +1,5 @@
 <template>
-  <a href="#!" class="mb-6 flex flex-col items-center justify-center">
+  <a href="#!" class="group mb-6 flex flex-col items-center justify-center">
     <div
       class="mb-5 h-24 w-24 overflow-hidden rounded-full"
       :class="`${bgColor}`"
@@ -10,7 +10,9 @@
         alt=""
       />
     </div>
-    <span class="text-xl font-semibold">{{ title }}</span>
+    <span class="text-xl font-semibold group-hover:text-blue-500">{{
+      title
+    }}</span>
   </a>
 </template>
 
