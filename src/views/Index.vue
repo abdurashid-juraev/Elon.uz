@@ -40,7 +40,7 @@
       <section class="mb-6 py-6">
         <div class="container mx-auto">
           <div class="mx-auto flex w-[950px] items-center justify-between">
-            <div><img src="./assets/icons/biznes-logo.svg" alt="" /></div>
+            <div><img src="../assets/icons/biznes-logo.svg" alt="" /></div>
             <h3 class="text-2xl font-semibold">
               {{ descr[0].SectionTitle }}
             </h3>
@@ -69,7 +69,7 @@
         <div>
           <img
             class="object-cover object-center"
-            src="./assets/png/poster.jpg"
+            src="../assets/png/poster.jpg"
             alt=""
           />
         </div>

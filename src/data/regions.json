@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "name": "Farg'ona",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Farg'ona-1"
+      },
+      {
+        "id": 2,
+        "name": "Farg'ona-2"
+      },
+      {
+        "id": 3,
+        "name": "Farg'ona-3"
+      },
+      {
+        "id": 4,
+        "name": "Farg'ona-4"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Namangan",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Namangan-1"
+      },
+      {
+        "id": 2,
+        "name": "Namangan-2"
+      },
+      {
+        "id": 3,
+        "name": "Namangan-3"
+      },
+      {
+        "id": 4,
+        "name": "Namangan-4"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Andijon",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Andijon-1"
+      },
+      {
+        "id": 2,
+        "name": "Andijon-2"
+      },
+      {
+        "id": 3,
+        "name": "Andijon-3"
+      },
+      {
+        "id": 4,
+        "name": "Andijon-4"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Samarqand",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Samarqand-1"
+      },
+      {
+        "id": 2,
+        "name": "Samarqand-2"
+      },
+      {
+        "id": 3,
+        "name": "Samarqand-3"
+      },
+      {
+        "id": 4,
+        "name": "Samarqand-4"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jizzax",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Jizzax-1"
+      },
+      {
+        "id": 2,
+        "name": "Jizzax-2"
+      },
+      {
+        "id": 3,
+        "name": "Jizzax-3"
+      },
+      {
+        "id": 4,
+        "name": "Jizzax-4"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sirdaryo",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Sirdaryo-1"
+      },
+      {
+        "id": 2,
+        "name": "Sirdaryo-2"
+      },
+      {
+        "id": 3,
+        "name": "Sirdaryo-3"
+      },
+      {
+        "id": 4,
+        "name": "Sirdaryo-4"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Toshkent",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Toshkent-1"
+      },
+      {
+        "id": 2,
+        "name": "Toshkent-2"
+      },
+      {
+        "id": 3,
+        "name": "Toshkent-3"
+      },
+      {
+        "id": 4,
+        "name": "Toshkent-4"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Navoiy",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Navoiy-1"
+      },
+      {
+        "id": 2,
+        "name": "Navoiy-2"
+      },
+      {
+        "id": 3,
+        "name": "Navoiy-3"
+      },
+      {
+        "id": 4,
+        "name": "Navoiy-4"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Surhondaryo",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Surhondaryo-1"
+      },
+      {
+        "id": 2,
+        "name": "Surhondaryo-2"
+      },
+      {
+        "id": 3,
+        "name": "Surhondaryo-3"
+      },
+      {
+        "id": 4,
+        "name": "Surhondaryo-4"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Qashqadaryo",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Qashqadaryo-1"
+      },
+      {
+        "id": 2,
+        "name": "Qashqadaryo-2"
+      },
+      {
+        "id": 3,
+        "name": "Qashqadaryo-3"
+      },
+      {
+        "id": 4,
+        "name": "Qashqadaryo-4"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Buxoro",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Buxoro-1"
+      },
+      {
+        "id": 2,
+        "name": "Buxoro-2"
+      },
+      {
+        "id": 3,
+        "name": "Buxoro-3"
+      },
+      {
+        "id": 4,
+        "name": "Buxoro-4"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Xorazm",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Xorazm-1"
+      },
+      {
+        "id": 2,
+        "name": "Xorazm-2"
+      },
+      {
+        "id": 3,
+        "name": "Xorazm-3"
+      },
+      {
+        "id": 4,
+        "name": "Xorazm-4"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Qoraqalpog'iston",
+    "rayons": [
+      {
+        "id": 1,
+        "name": "Qoraqalpog'iston-1"
+      },
+      {
+        "id": 2,
+        "name": "Qoraqalpog'iston-2"
+      },
+      {
+        "id": 3,
+        "name": "Qoraqalpog'iston-3"
+      },
+      {
+        "id": 4,
+        "name": "Qoraqalpog'iston-4"
+      }
+    ]
+  }
+]

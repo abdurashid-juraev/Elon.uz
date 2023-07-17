@@ -6,7 +6,7 @@
         <div>
           <ul class="flex items-center">
             <li class="group ml-3">
-              <router-link :to="{ name: 'register' }" class="flex items-center">
+              <router-link :to="{ name: 'login' }" class="flex items-center">
                 <img class="mr-2" src="@/assets/icons/sms.svg" alt="" />
                 <span class="group-hover:text-blue-500">Сообщения </span>
               </router-link>

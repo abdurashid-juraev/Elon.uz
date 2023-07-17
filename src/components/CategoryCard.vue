@@ -17,7 +17,6 @@
 </template>
 
 <script setup>
-// @ts-ignore
 import { defineProps } from "vue";
 
 const props = defineProps(["img", "title", "bgColor"]);
