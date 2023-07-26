@@ -8,7 +8,7 @@
           <h2 class="mb-8 pb-3 text-center text-3xl font-semibold">
             Главные категории
           </h2>
-          <div class="grid grid-cols-9">
+          <div class="grid grid-cols-9 gap-2">
             <CategoryCard
               v-for="ctg in ctgs"
               :key="ctg.id"
@@ -68,7 +68,7 @@
       <div class="container mx-auto mb-10 py-10">
         <div>
           <img
-            class="object-cover object-center"
+            class="object-cover object-center w-full"
             src="../assets/png/poster.jpg"
             alt=""
           />

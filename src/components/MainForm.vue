@@ -86,6 +86,9 @@
       </div>
     </label>
     <div class="mt-3"><a href="#!" class="font-semibold hover:text-gray-600 duration-100 ">Забыли пароль?</a></div>
+    <p class="text-sm">
+      Я соглашаюсь с <a href="#!"><b>Условия использования</b></a>, а также с передачей и обработкой моих данных в OLX. Я подтверждаю своe совершеннолетие и ответственность за размещение объявления
+    </p>
     <button
       type="submit"
       @click.prevent="submit"

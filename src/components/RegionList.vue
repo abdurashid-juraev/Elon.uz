@@ -1,14 +1,43 @@
 <template>
-  <div
-    class="absolute left-0 right-0 top-full ml-0 mt-2 w-full bg-gray-100 p-5"
-  >
-    <ul class="grid grid-cols-3">
-      <li v-for="region in regions" :key="region.id" class="mb-4">
-        <a href="#!">
-          {{ region.name }}
-        </a>
-      </li>
-    </ul>
+  <div class="absolute left-0 right-0 top-full ml-0 mt-2 w-full bg-gray-100">
+    <div class="grid grid-cols-3">
+      <ul class="">
+        <li
+          v-for="region in regions.slice(0, 5)"
+          :key="region.id"
+          class="flex items-center justify-between px-5 py-4 duration-150 hover:bg-slate-200"
+        >
+          <a href="#!">
+            {{ region.name }}
+          </a>
+          <img src="../assets//icons/arrow.svg" alt="" />
+        </li>
+      </ul>
+      <ul class="">
+        <li
+          v-for="region in regions.slice(5, 10)"
+          :key="region.id"
+          class="flex items-center justify-between px-5 py-4 duration-150 hover:bg-slate-200"
+        >
+          <a href="#!">
+            {{ region.name }}
+          </a>
+          <img src="../assets//icons/arrow.svg" alt="" />
+        </li>
+      </ul>
+      <ul class="">
+        <li
+          v-for="region in regions.slice(10, 15)"
+          :key="region.id"
+          class="flex items-center justify-between px-5 py-4 duration-150 hover:bg-slate-200"
+        >
+          <a href="#!">
+            {{ region.name }}
+          </a>
+          <img src="../assets//icons/arrow.svg" alt="" />
+        </li>
+      </ul>
+    </div>
   </div>
 </template>
 

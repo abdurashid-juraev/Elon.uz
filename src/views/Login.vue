@@ -19,18 +19,23 @@
           ><span class="block h-[1px] w-full bg-black"></span>
         </div>
         <div class="mb-5 grid grid-cols-2 gap-2">
-          <button class="border-b-2 border-black pb-3 text-center">Войти</button
-          ><button class="pb-3 text-center">Зарегистрироваться</button>
+          <router-link
+            :to="{ name: 'login' }"
+            class="border-b-2 border-black pb-3 font-semibold duration-200 text-center"
+            >Войти</router-link
+          >
+          <router-link :to="{ name: 'register' }" class="pb-3 text-center"
+            >Зарегистрироваться</router-link
+          >
         </div>
-        <MainForm/>
+        <MainForm />
       </div>
     </div>
   </div>
 </template>
 
 <script setup>
+import { RouterLink } from "vue-router";
 // @ts-ignore
-import MainForm from '../components/MainForm.vue';
-
-
+import MainForm from "../components/MainForm.vue";
 </script>
